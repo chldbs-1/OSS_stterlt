@@ -1,5 +1,5 @@
 import streamlit as st
-OSS_Score = [80,70,55,30,3,3,1,0]
+OSS_Score = [50,90,35,10,7,3,1,0]
 
 st.write("#oss 중간 시험 결과")
 st.write("## 애들아 공부 좀 하자")
